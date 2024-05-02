@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Bem vindo à minha página
 ---
 
